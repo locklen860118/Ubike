@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DC2374F1-F9EA-4273-B8A6-8D80D5A8B0A1"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA07EC51-D973-41DB-BD07-4404347FA16A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iBike_home/ViewController/bikeTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "getbikeData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C297B48D-EAA8-41BE-95BB-3EC2C79513C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iBike_home/ViewController/bikeTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "bikeTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C297B48D-EAA8-41BE-95BB-3EC2C79513C1 - bad93b34f7456f9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBike_home.bikeTableViewCell.meter.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "iBike_home"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cy0290/Desktop/iBike_home0518/iBike_home/ViewController/bikeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "C297B48D-EAA8-41BE-95BB-3EC2C79513C1 - 9eea5dd21d3988"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBike_home.bikeTableViewCell.meter.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "iBike_home"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cy0290/Desktop/iBike_home0518/iBike_home/ViewController/bikeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "C297B48D-EAA8-41BE-95BB-3EC2C79513C1 - 68dea0cb0c7f851b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBike_home.bikeTableViewCell.meter.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "iBike_home"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cy0290/Desktop/iBike_home0518/iBike_home/ViewController/bikeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "C297B48D-EAA8-41BE-95BB-3EC2C79513C1 - 7df19e81f7f5f720"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBike_home.bikeTableViewCell.meter.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "iBike_home"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cy0290/Desktop/iBike_home0518/iBike_home/ViewController/bikeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "C297B48D-EAA8-41BE-95BB-3EC2C79513C1 - 13866bf7163ea828"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBike_home.bikeTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; iBike_home.bikeTableViewCell"
+                  moduleName = "iBike_home"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cy0290/Desktop/iBike_home0518/iBike_home/ViewController/bikeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "C297B48D-EAA8-41BE-95BB-3EC2C79513C1 - 3d89efa60512c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBike_home.bikeTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;iBike_home.bikeTableViewCell&gt;"
+                  moduleName = "iBike_home"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cy0290/Desktop/iBike_home0518/iBike_home/ViewController/bikeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "312">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE208894-6F82-4C68-BFA2-2E25424184B4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iBike_home/ViewController/bikeTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "bikeTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "BE208894-6F82-4C68-BFA2-2E25424184B4 - b4f4c3b18020226f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBike_home.bikeTableViewCell.distance.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "iBike_home"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cy0290/Desktop/iBike_home0518/iBike_home/ViewController/bikeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "BE208894-6F82-4C68-BFA2-2E25424184B4 - f7f8e0831eba165b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBike_home.bikeTableViewCell.distance.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "iBike_home"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cy0290/Desktop/iBike_home0518/iBike_home/ViewController/bikeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "BE208894-6F82-4C68-BFA2-2E25424184B4 - 5760f3a3b02cf6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBike_home.bikeTableViewCell.distance.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "iBike_home"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cy0290/Desktop/iBike_home0518/iBike_home/ViewController/bikeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "BE208894-6F82-4C68-BFA2-2E25424184B4 - 4be7dce23b0b3c18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBike_home.bikeTableViewCell.distance.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "iBike_home"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cy0290/Desktop/iBike_home0518/iBike_home/ViewController/bikeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "BE208894-6F82-4C68-BFA2-2E25424184B4 - 13866bf7163ea828"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBike_home.bikeTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; iBike_home.bikeTableViewCell"
+                  moduleName = "iBike_home"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cy0290/Desktop/iBike_home0518/iBike_home/ViewController/bikeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "BE208894-6F82-4C68-BFA2-2E25424184B4 - 3d89efa60512c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iBike_home.bikeTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;iBike_home.bikeTableViewCell&gt;"
+                  moduleName = "iBike_home"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cy0290/Desktop/iBike_home0518/iBike_home/ViewController/bikeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "416">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A09F153D-4431-43DB-AEAC-5DD7B2F57706"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iBike_home/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "227"
+            endingLineNumber = "227"
+            landmarkName = "mapView(_:didTap:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1554279-4169-47F4-819F-FAF6CEF5C3E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iBike_home/Controller/SearchTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

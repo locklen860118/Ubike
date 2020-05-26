@@ -1,0 +1,6 @@
+module Pods_iBike_home {
+  umbrella header "Pods-iBike_home-umbrella.h"
+
+  export *
+  module * { export * }
+}
