@@ -14,14 +14,13 @@
 		831ED106246ADE01000FA5E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 831ED104246ADE01000FA5E5 /* Main.storyboard */; };
 		831ED108246ADE03000FA5E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 831ED107246ADE03000FA5E5 /* Assets.xcassets */; };
 		831ED10B246ADE03000FA5E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 831ED109246ADE03000FA5E5 /* LaunchScreen.storyboard */; };
-		831ED1782476C265000FA5E5 /* bikeMarkerData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 831ED1772476C265000FA5E5 /* bikeMarkerData.swift */; };
 		831ED17A2479495E000FA5E5 /* SearchTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 831ED1792479495E000FA5E5 /* SearchTableViewCell.swift */; };
 		831ED17C24794A95000FA5E5 /* SearchPositionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 831ED17B24794A95000FA5E5 /* SearchPositionViewController.swift */; };
 		B2D6364D24738D0700CA1878 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D6364C24738D0700CA1878 /* WebViewController.swift */; };
 		B2DC1C6C24713FE400229D04 /* bikeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2DC1C6B24713FE400229D04 /* bikeTableViewCell.swift */; };
 		B2DC1C6E2471435D00229D04 /* bikeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2DC1C6D2471435D00229D04 /* bikeTableViewController.swift */; };
-		B2DDDEB6247B68BF00CC1498 /* drawDestinationData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2DDDEB5247B68BF00CC1498 /* drawDestinationData.swift */; };
 		B2DF9BDA246B836A0070308C /* uBikeData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2DF9BD9246B836A0070308C /* uBikeData.swift */; };
+		B2E4A604247E19600080E71E /* directionDraw.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E4A603247E19600080E71E /* directionDraw.swift */; };
 		B2FCE9F92477F00D0007A35A /* SearchTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2FCE9F82477F00D0007A35A /* SearchTableViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -34,14 +33,13 @@
 		831ED107246ADE03000FA5E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		831ED10A246ADE03000FA5E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		831ED10C246ADE03000FA5E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		831ED1772476C265000FA5E5 /* bikeMarkerData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bikeMarkerData.swift; sourceTree = "<group>"; };
 		831ED1792479495E000FA5E5 /* SearchTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchTableViewCell.swift; sourceTree = "<group>"; };
 		831ED17B24794A95000FA5E5 /* SearchPositionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchPositionViewController.swift; sourceTree = "<group>"; };
 		B2D6364C24738D0700CA1878 /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 		B2DC1C6B24713FE400229D04 /* bikeTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bikeTableViewCell.swift; sourceTree = "<group>"; };
 		B2DC1C6D2471435D00229D04 /* bikeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bikeTableViewController.swift; sourceTree = "<group>"; };
-		B2DDDEB5247B68BF00CC1498 /* drawDestinationData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = drawDestinationData.swift; sourceTree = "<group>"; };
 		B2DF9BD9246B836A0070308C /* uBikeData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = uBikeData.swift; sourceTree = "<group>"; };
+		B2E4A603247E19600080E71E /* directionDraw.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = directionDraw.swift; sourceTree = "<group>"; };
 		B2FCE9F82477F00D0007A35A /* SearchTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchTableViewController.swift; sourceTree = "<group>"; };
 		B6D704CA9A1252D167D4EEC2 /* libPods-iBike_home.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-iBike_home.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9D84DD09519ED670C3A9E66 /* Pods-iBike_home.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iBike_home.debug.xcconfig"; path = "Target Support Files/Pods-iBike_home/Pods-iBike_home.debug.xcconfig"; sourceTree = "<group>"; };
@@ -128,8 +126,7 @@
 			isa = PBXGroup;
 			children = (
 				B2DF9BD9246B836A0070308C /* uBikeData.swift */,
-				831ED1772476C265000FA5E5 /* bikeMarkerData.swift */,
-				B2DDDEB5247B68BF00CC1498 /* drawDestinationData.swift */,
+				B2E4A603247E19600080E71E /* directionDraw.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -265,9 +262,8 @@
 				831ED101246ADE01000FA5E5 /* SceneDelegate.swift in Sources */,
 				831ED17C24794A95000FA5E5 /* SearchPositionViewController.swift in Sources */,
 				B2FCE9F92477F00D0007A35A /* SearchTableViewController.swift in Sources */,
-				831ED1782476C265000FA5E5 /* bikeMarkerData.swift in Sources */,
 				B2DC1C6C24713FE400229D04 /* bikeTableViewCell.swift in Sources */,
-				B2DDDEB6247B68BF00CC1498 /* drawDestinationData.swift in Sources */,
+				B2E4A604247E19600080E71E /* directionDraw.swift in Sources */,
 				831ED17A2479495E000FA5E5 /* SearchTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
